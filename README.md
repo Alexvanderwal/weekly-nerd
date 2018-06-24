@@ -1,11 +1,11 @@
 # weekly-nerd
 
 ## Articles
-1. Hackathon - This one is for my gappies
-2. Good design shows humanity  
-3. How technological knowledge can hinder the design
-4. We created the web together, we can destroy it together
-5. The bridge between backend & frontend is a myth created by anxious and stubborn developers. (What's next)
+1. [Hackathon - This one is for my gappies](https://github.com/Cascuna/weekly-nerd/blob/master/hackaton.md)
+2. [Good design shows humanity](https://github.com/Cascuna/weekly-nerd/blob/master/ARTICLE2.md)  
+3. [How technological knowledge can hinder the design](https://github.com/Cascuna/weekly-nerd/blob/master/file.md)
+4. [We created the web together, we can destroy it together](https://github.com/Cascuna/weekly-nerd/blob/master/destruction.md)
+5. [The bridge between backend & frontend is a myth created by anxious and stubborn developers.](https://github.com/Cascuna/weekly-nerd/blob/master/myth.MD)
 
 ## sketchnotes for the weekly nerds
 * <details>

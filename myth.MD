@@ -1,6 +1,6 @@
 # The bridge between front-end and back-end is a myth
 
-I realize the title is quite a bold statement, and I want to stress i'm not trying to say that there is no real difference between the two, because there is. But one thing i have noticed in the industry,
+I realize the title is quite a bold statement, and I want to stress that i'm not trying to say that there is no real difference between the two, because there is. But one thing i have noticed in the industry,
 are proffesionals thinking the other field is either impossible to reach, or not beneficial to their work directly.
 During this minor i've realized how much bullshit this actually is. Front-enders create a beautifull display for the logic & data the back-enders provide.
 It's not uncommon for bussiness to have quite a clear seperation between their back-enders and front-enders. TamTam was a good example of this, their

@@ -1,11 +1,11 @@
 # weekly-nerd
 
 ## Articles
-1. Hackaton
+1. Hackaton - This one is for my gappies
 2. Good design shows humanity  
-
-"Blog" for the weekly nerd :)
-
+3. How technological knowledge can improve design
+4. We created the web together, we can destroy it together
+5. The bridge between backend & frontend is a myth created by anxious and stubborn developers. (What's next)
 
 ## sketchnotes for the weekly nerds
 * <details>
@@ -23,31 +23,32 @@
   
 * <details>
   <summary> Peter Paul Koch (PPK) - Browser bloat </summary>
-  <p> </p>
+  <p> </p>  
   <img src="https://photos-5.dropbox.com/t/2/AADvMApqbeT_ufhnN-LNbDExnzF48aq6sJM14iaZRsk9dw/12/259023506/png/32x32/3/1529856000/0/2/quirks-2.png/EM3V2KYDGMXhByACKAI/G4DfTSCusvmzdL8D2JxOLv-Q35uK-ITsQYPjsDJJjNw?dl=0&preserve_transparency=1&size=2048x1536&size_mode=3">
-  <img src="https://photos-3.dropbox.com/t/2/AADN1iLk9GskmzC1X3qS7AdTdZZraUy5ZGNNgi68cWPyJg/12/259023506/png/32x32/1/_/1/2/tamtam-1.png/EM3V2KYDGMXhByACKAI/h3-B3NI7vTwsqm6kVOwM8RLRQFGGY2P0EF9DPh8mA8g?preserve_transparency=1&size=2048x1536&size_mode=3">
+  <img src="http://puu.sh/AL4Eq/9bc61e6a1b.jpg">
   
 </details> 
   
 * <details>
   <summary> Anne van den Hoogen (Tamtam) - Developer </summary>
   <p> </p>
-  <img src="https://photos-3.dropbox.com/t/2/AAC66Mw-0CTiT8Ddd8kf0DpJtjEgYRHAE8v9zVCIbiOj6w/12/259023506/png/32x32/1/_/1/2/tamtam-2.png/EM3V2KYDGMXhByACKAI/B9yCS2WcuW0L6UIbxFwShJTHpxoHXVJMa00g6VeYbvw?preserve_transparency=1&size=2048x1536&size_mode=3">
-  <img src="https://photos-3.dropbox.com/t/2/AACw4JyIqUzH1b-ocPD30kD5MenQLmF5MrFhU_3OWFjT0Q/12/259023506/png/32x32/1/_/1/2/schiphol-1.png/EM3V2KYDGMbhByACKAI/FXqz484MNh4B5HcQUJ9LX0j4jVAJQ8_IdFYRDYIjcv4?preserve_transparency=1&size=2048x1536&size_mode=3">
+  <img src=http://puu.sh/AL4Hv/541b888614.jpg">
+  <img src="http://puu.sh/AL4HK/c44056b863.jpg">
   
 </details> 
   
 * <details>
   <summary> Jasper Moelker (Voorhoede) - DevLovesDes </summary>
   <p> </p>
-  <img src="https://photos-5.dropbox.com/t/2/AADvMApqbeT_ufhnN-LNbDExnzF48aq6sJM14iaZRsk9dw/12/259023506/png/32x32/3/1529856000/0/2/quirks-2.png/EM3V2KYDGMXhByACKAI/G4DfTSCusvmzdL8D2JxOLv-Q35uK-ITsQYPjsDJJjNw?dl=0&preserve_transparency=1&size=2048x1536&size_mode=3">
+  <img src="http://puu.sh/AL4JI/f87f5b13cd.jpg">
   
 </details> 
    
 * <details>
   <summary> Ischa Gast (Schiphol) - Accessibility </summary>
   <p> </p>
-  <img src="https://photos-5.dropbox.com/t/2/AADvMApqbeT_ufhnN-LNbDExnzF48aq6sJM14iaZRsk9dw/12/259023506/png/32x32/3/1529856000/0/2/quirks-2.png/EM3V2KYDGMXhByACKAI/G4DfTSCusvmzdL8D2JxOLv-Q35uK-ITsQYPjsDJJjNw?dl=0&preserve_transparency=1&size=2048x1536&size_mode=3">
+  <img src="http://puu.sh/AL4NI/89a96a240b.jpg">
+  <img src="http://puu.sh/AL4ON/22da289711.jpg">
   
 </details> 
   

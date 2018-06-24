@@ -1,9 +1,9 @@
 # weekly-nerd
 
 ## Articles
-1. Hackaton - This one is for my gappies
+1. Hackathon - This one is for my gappies
 2. Good design shows humanity  
-3. How technological knowledge can improve design
+3. How technological knowledge can hinder the design
 4. We created the web together, we can destroy it together
 5. The bridge between backend & frontend is a myth created by anxious and stubborn developers. (What's next)
 
@@ -56,7 +56,7 @@
 * Peter Peerdeman (Lifely) - GraphQL - **Canceled**
 * Léonie Watson - Inclusive Design - **Canceled**
 
-* Hackaton @ Master Digital Design - Rapid Prototyping - done
+* Hackathon @ Master Digital Design - Rapid Prototyping - done
 
 * <details>
   <summary> Vitaly Friedman (Smashing Magazine) - Where we are heading </summary>

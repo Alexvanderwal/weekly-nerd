@@ -17,8 +17,8 @@
 * <details>
   <summary> Titus Wormer (HvA) - Advanced Git Tips & Tricks </summary>
   <p> </p>
-  <img src="https://photos-1.dropbox.com/t/2/AAClzSBcf16r2OLZDmuXd2ovThYESrYXF2X-LOUUii_ZzQ/12/259023506/png/32x32/3/1529856000/0/2/worm-2.png/EM3V2KYDGMXhByACKAI/Sk-bQKevRUJ5-gQv7zkza4bVvIV6zKVpamxHyBbBYdY?dl=0&preserve_transparency=1&size=2048x1536&size_mode=3">
-  <img src="https://photos-5.dropbox.com/t/2/AAAyAAvdLHXLiCXUBeQv8-I8oBCzgq-MlTjsGQIhdSDwrA/12/259023506/png/32x32/3/1529856000/0/2/quirks-1.png/EM3V2KYDGMXhByACKAI/_Spg105v7RDRRkd65nJY72fSJpUN11xm0T8iPY45upc?dl=0&preserve_transparency=1&size=2048x1536&size_mode=3"/>
+  <img src="http://puu.sh/AP5IN/ea6743f3ef.jpg">
+  <img src="http://puu.sh/AP5Ji/befcd807ae.jpg">
 </details>  
   
 * <details>

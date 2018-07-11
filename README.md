@@ -68,6 +68,7 @@
 * <details>
   <summary>  Bruce Lawson (W3C) - Current State </summary>
   <p> </p>
-  <img src="https://photos-5.dropbox.com/t/2/AADvMApqbeT_ufhnN-LNbDExnzF48aq6sJM14iaZRsk9dw/12/259023506/png/32x32/3/1529856000/0/2/quirks-2.png/EM3V2KYDGMXhByACKAI/G4DfTSCusvmzdL8D2JxOLv-Q35uK-ITsQYPjsDJJjNw?dl=0&preserve_transparency=1&size=2048x1536&size_mode=3">
+  <img src="http://puu.sh/AUzxC/7055feb97c.jpg">
+  <img src="http://puu.sh/AUzAR/55fc44b36c.jpg">
   
 </details>
